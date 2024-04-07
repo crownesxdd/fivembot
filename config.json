@@ -1,0 +1,34 @@
+{
+  "token": "token", 
+  "sunucid": "sunucuid",
+  "developer": "kullanıcıid",
+  "yetkili": "rolid",
+  "unwl": "rolid",
+  "wl": "rolid",
+  "wlisim": "IC/OC İsim",
+  "unwlisim": "Whitelist Alındı",
+  "teyitses": "kanalid",
+  "botungirecegises": "kanalid",
+  "butonlumulakatlogkanalid": "kanalid",
+  "server": {
+    "servername": "fivemsunucuisim",
+    "ip": "fivemsunucuip",
+    "cfxtiklabaglanip": "https://cfx.re/join/xxx",
+    "ts3ip": "teamspeak3ip",
+    "port": "30120"
+  },
+  "sunucusartlari": {
+    "minimumfivemsaat": "300",
+    "minimumyas": "17"
+  },
+  "guild": {
+    "jail": "logkanalid"
+  },
+  "logs": {
+    "ban": "logkanalid",
+    "basvuru": "logkanalid"
+  },
+  "log": "logkanalid",
+  "color": "#000000",
+  "duration": 5000 
+}
